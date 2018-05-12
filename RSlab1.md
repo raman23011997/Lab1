@@ -21,7 +21,7 @@
 
        ```js
         node=require('http');
-         ```
+        
  ## Answer: No Because we need to define the variable type.
     # 2 Questions I still have are...
 
