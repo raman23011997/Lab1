@@ -17,14 +17,15 @@
 
     ## Answer: asynchronous because it uses a callback function
 
-1. 	Is a following code true  ?
+1.  [Insert your 2nd question here]
 
-       ```js
-        node=require('http');
-				 ```
+    ```js
+		 node=require('http');
+    ```
 
- ## Answer: No Because we need to define the variable type.
- # 2 Questions I still have are.
+    ## Answer: No Because we need to define the variable type.
+
+    # 2 Questions I still have are...
 
     * what is the role of attribute "request" in the function Method?
     * Where and why we use Node.js?
