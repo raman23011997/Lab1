@@ -23,9 +23,9 @@
         node=require('http');
         ```
  ## Answer: No Because we need to define the variable type.
- # 2 Questions I still have are...
+ # 2 Questions I still have are.
 
-    * what is the role of attribute "request" in the function Method?
-    * how?
+ * what is the role of attribute "request" in the function Method?
+ * How else can the JavaScript code below be written using Node.Js to produce the same output?
 
-1. ![node -v](./images/version.PNG)
+1. (./images/version.PNG)
