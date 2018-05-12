@@ -1,13 +1,12 @@
-# Lab 1 - Getting Started with Github :smiley:
+# Lab 1
 
-## Total 3 marks
 
 # 2 Things I Learned in the Form of Quiz Questions
 
 1.  Is the following code synchronous or asynchronous?
 
     ```js
-    var food = fs.readFile('food.txt', 'utf8', function(err, food) {
+    fs.readFile('food.txt', 'utf8', function(err, food) {
       if (err) {
         console.log(err);
       } else {
@@ -18,12 +17,11 @@
 
     ## Answer: asynchronous because it uses a callback function
 
-1.  [Insert your 2nd question here]
+1.  How to Link a Variable to the node http Library?
 
-    ```js
-    ```
-
-    ## [insert answer here]
+```js
+Let a=require('http');
+```
 
     # 2 Questions I still have are...
 
