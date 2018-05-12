@@ -17,15 +17,15 @@
 
     ## Answer: asynchronous because it uses a callback function
 
-1.  How to Link a Variable to the node http Library?
+1. 	Is a following code true  ?
 
-```js
-Let a=require('http');
-```
-
+       ```js
+        node=require('http');
+         ```
+ ## Answer: No Because we need to define the variable type.
     # 2 Questions I still have are...
 
-    * ...
-    * ...
+    * what is the role of attribute "request" in the function Method?
+    * how?
 
-1.  ![node -v](./images/nodev.PNG)
+1.  ![node -v](./images/version.PNG)
