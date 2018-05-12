@@ -26,6 +26,6 @@
  # 2 Questions I still have are.
 
  * what is the role of attribute "request" in the function Method?
- * How else can the JavaScript code below be written using Node.Js to produce the same output?
+ * Where and why we use Node.js?
 
-1. (./images/version.PNG)
+1. ![node -v](./images/version.PNG)
