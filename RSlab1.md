@@ -21,11 +21,11 @@
 
        ```js
         node=require('http');
-        
+        ```
  ## Answer: No Because we need to define the variable type.
-    # 2 Questions I still have are...
+ # 2 Questions I still have are...
 
     * what is the role of attribute "request" in the function Method?
     * how?
 
-1.  ![node -v](./images/version.PNG)
+1. ![node -v](./images/version.PNG)
